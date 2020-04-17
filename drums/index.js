@@ -35,15 +35,15 @@ function lily(key)
             audio.play();
             break;
             case "j":
-              var audio= new Audio("D:/WebDev/Drum_kit/drums/sounds/crash.mp3");
+              var audio= new Audio("https://github.com/kitarp29/drums_kit/blob/master/drums/sounds/crash.mp3");
               audio.play();
               break;
               case "k":
-                var audio= new Audio("D:/WebDev/Drum_kit/drums/sounds/kick-bass.mp3");
+                var audio= new Audio("https://github.com/kitarp29/drums_kit/blob/master/drums/sounds/kick-bass.mp3");
                 audio.play();
                 break;
                 case "l":
-                  var audio= new Audio("D:/WebDev/Drum_kit/drums/sounds/snare.mp3");
+                  var audio= new Audio("https://github.com/kitarp29/drums_kit/blob/master/drums/sounds/snare.mp3");
                   audio.play();
                   break;
     default:
